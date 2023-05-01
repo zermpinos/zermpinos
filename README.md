@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zermpinos, a integrated master mechanical engineer with a focus on energy engineering.
+- 👀 I’m interested in automations and zero - energy buildings.
+- 🌱 I’m currently learning how to analyze and visualize data.
+- 💞️ I’m looking to collaborate on pretty much any project that will help me learn something new and grow.
+- 📫 How to reach me: https://linktr.ee/panoszermpinos 
