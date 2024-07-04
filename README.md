@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zermpinos, a integrated master mechanical engineer with background in automotive engineering & energy, actively expanding my knowledge in cybersecurity.
-- 👀 I’m interested in all things Cybersecurity!
 - 🌱 I’m currently working as a Field Service Engineer in a company that deals with Digital Forensics.
 - 💞️ I’m looking to collaborate on pretty much any project that will help me learn something new and grow.
 - 📫 How to reach me: https://linktr.ee/panoszermpinos 
