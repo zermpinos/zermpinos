@@ -54,10 +54,9 @@ Open to collaborating on anything security-adjacent, full-stack, or infrastructu
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)                                                                                                                                                                                                 
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=zermpinos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zermpinos&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zermpinos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)                                                                                                                            
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zermpinos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>                                                                                                                                                 ![](https://nirzak-streak-stats.vercel.app/?user=zermpinos&theme=highcontrast&hide_border=false)<br/>                                                                                                                                                                                                    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zermpinos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)                                                                                                                              
 
 ## 💰 Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zermpinos)    
