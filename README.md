@@ -6,7 +6,8 @@ Also running a Docker-based Pi-hole filtering 350k+ malicious domains across 5+ 
 
 Open to collaborating on anything security-adjacent, full-stack, or infrastructure-related.
 
-# Portfolio & CV: [zermpinos.vercel.app](https://zermpinos.vercel.app)
+## [Portfolio & CV](https://zermpinos.vercel.app)
+## [Armani Katehano Basketball Stats Platform](https://armani-katehano.vercel.app)
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotiszermpinos)
@@ -53,10 +54,7 @@ Open to collaborating on anything security-adjacent, full-stack, or infrastructu
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)                                                                                                                                                                                                 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zermpinos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>                                                                                                                                                 ![](https://nirzak-streak-stats.vercel.app/?user=zermpinos&theme=highcontrast&hide_border=false)<br/>                                                                                                                                                                                                    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zermpinos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)                                                                                                                              
+                                                                                                                        
 
 ## 💰 Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zermpinos)    
