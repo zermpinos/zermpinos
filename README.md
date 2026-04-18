@@ -1,6 +1,7 @@
 # About Me                                             
-Hi, I'm @zermpinos, an Integrated Master's Mechanical Engineer (automotive & energy background) now working as a Field Service Engineer in digital forensics, actively moving deeper into cybersecurity and full-stack development.
-Currently building and maintaining the **Armani Katehano Basketball Stats Platform** — a production Next.js/TypeScript/Prisma app with HMAC-signed sessions, CSRF validation, brute-force rate limiting, SSRF-protected scraping, and a GitHub Actions CI/CD pipeline (lint, typecheck, unit tests, Playwright E2E on Vercel previews, weekly npm audit).   
+Hi, I'm @zermpinos, an Integrated Master's Mechanical Engineer (automotive & energy background) now working as a Field Service Engineer in digital forensics, actively moving deeper into cybersecurity and IT Ops.
+
+Currently building and maintaining the **Armani Katehano Basketball Stats Platform**, a production Next.js/TypeScript/Prisma webpage with HMAC-signed sessions, CSRF validation, brute-force rate limiting, SSRF-protected scraping, and a GitHub Actions CI/CD pipeline (lint, typecheck, unit tests, Playwright E2E on Vercel previews, weekly npm audit).   
 
 Also running a Docker-based Pi-hole filtering 350k+ malicious domains across 5+ devices, daily-driving a hardened Linux setup, and working through TryHackMe and HackTheBox labs.
 
