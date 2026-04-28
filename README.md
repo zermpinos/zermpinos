@@ -8,7 +8,7 @@ Also running a Docker-based Pi-hole filtering 350k+ malicious domains across 5+ 
 Open to collaborating on anything security-adjacent, full-stack, or infrastructure-related.
 
 ## [Portfolio & CV](https://zermpinos.vercel.app)
-## [Armani Katehano Basketball Stats Platform](https://armani-katehano.vercel.app)
+## [Armani Katehano Basketball Stats Platform](https://armani-katehano.com)
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotiszermpinos)
