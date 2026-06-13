@@ -1,14 +1,14 @@
 # About Me                                             
 Hi, I'm @zermpinos, an Integrated Master's Mechanical Engineer (automotive & energy background) now working as a Field Service Engineer in digital forensics, actively moving deeper into cybersecurity and IT Ops.
 
-Currently building and maintaining the **Armani Katehano Basketball Stats Platform**, a production Next.js/TypeScript/Prisma webpage with HMAC-signed sessions, CSRF validation, brute-force rate limiting, SSRF-protected scraping, and a GitHub Actions CI/CD pipeline (lint, typecheck, unit tests, Playwright E2E on Vercel previews, weekly npm audit).   
+Currently building and maintaining the official web app for **Armani Katehano BC**. A statistics, scheduling, and roster-management web app built with Next.js/TypeScript/Prisma webpage with HMAC-signed sessions, CSRF validation, brute-force rate limiting, SSRF-protected scraping, and a GitHub Actions CI/CD pipeline (lint, typecheck, unit tests, Playwright E2E on Vercel previews, weekly npm audit).   
 
 Also running a Docker-based Pi-hole filtering 350k+ malicious domains across 5+ devices, daily-driving a hardened Linux setup, and working through TryHackMe and HackTheBox labs.
 
 Open to collaborating on anything security-adjacent, full-stack, or infrastructure-related.
 
 ## [Portfolio & CV](https://zermpinos.vercel.app)
-## [Armani Katehano Basketball Stats Platform](https://armani-katehano.com)
+## [Armani Katehano BC statistics, scheduling, and roster-management web app](https://armani-katehano.com)
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotiszermpinos)
